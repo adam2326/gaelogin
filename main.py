@@ -2,7 +2,6 @@
 import logging
 from flask import Flask,request
 from google.appengine.api import users
-import datetime
 
 
 app = Flask(__name__)
